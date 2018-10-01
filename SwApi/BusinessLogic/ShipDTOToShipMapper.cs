@@ -6,10 +6,10 @@ namespace SwApi.BusinessLogic
 {
     class ShipDTOToShipMapper
     {
-        static readonly int hoursInAYear = 8766;
-        static readonly int hoursInAMonth = 730;
-        static readonly int hoursInAWeek = 168;
-        static readonly int hoursInADay = 24;
+        const int hoursInAYear = 8766;
+        const int hoursInAMonth = 730;
+        const int hoursInAWeek = 168;
+        const int hoursInADay = 24;
         public Ship Map(ShipDTO ship)
         {
             try {
