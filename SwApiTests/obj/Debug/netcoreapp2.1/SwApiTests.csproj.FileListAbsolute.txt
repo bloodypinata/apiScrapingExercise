@@ -1,0 +1,17 @@
+C:\Users\10261377\source\repos\Swapi\SwApiTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\10261377\source\repos\Swapi\SwApiTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\10261377\source\repos\Swapi\SwApiTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\10261377\source\repos\Swapi\SwApiTests\bin\Debug\netcoreapp2.1\SwApiTests.deps.json
+C:\Users\10261377\source\repos\Swapi\SwApiTests\bin\Debug\netcoreapp2.1\SwApiTests.runtimeconfig.json
+C:\Users\10261377\source\repos\Swapi\SwApiTests\bin\Debug\netcoreapp2.1\SwApiTests.runtimeconfig.dev.json
+C:\Users\10261377\source\repos\Swapi\SwApiTests\bin\Debug\netcoreapp2.1\SwApiTests.dll
+C:\Users\10261377\source\repos\Swapi\SwApiTests\bin\Debug\netcoreapp2.1\SwApiTests.pdb
+C:\Users\10261377\source\repos\Swapi\SwApiTests\bin\Debug\netcoreapp2.1\SwApi.dll
+C:\Users\10261377\source\repos\Swapi\SwApiTests\bin\Debug\netcoreapp2.1\SwApi.pdb
+C:\Users\10261377\source\repos\Swapi\SwApiTests\obj\Debug\netcoreapp2.1\SwApiTests.csprojAssemblyReference.cache
+C:\Users\10261377\source\repos\Swapi\SwApiTests\obj\Debug\netcoreapp2.1\SwApiTests.csproj.CoreCompileInputs.cache
+C:\Users\10261377\source\repos\Swapi\SwApiTests\obj\Debug\netcoreapp2.1\SwApiTests.AssemblyInfoInputs.cache
+C:\Users\10261377\source\repos\Swapi\SwApiTests\obj\Debug\netcoreapp2.1\SwApiTests.AssemblyInfo.cs
+C:\Users\10261377\source\repos\Swapi\SwApiTests\obj\Debug\netcoreapp2.1\SwApiTests.csproj.CopyComplete
+C:\Users\10261377\source\repos\Swapi\SwApiTests\obj\Debug\netcoreapp2.1\SwApiTests.dll
+C:\Users\10261377\source\repos\Swapi\SwApiTests\obj\Debug\netcoreapp2.1\SwApiTests.pdb
