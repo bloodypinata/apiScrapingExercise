@@ -30,7 +30,7 @@ _____
 USAGE
 _____
 
-Enter the following to the commands window to run the application:
+Enter the following to the command window to run the application:
 
 __________________
 Standard execution
@@ -41,7 +41,7 @@ dotnet run -- x
 Where x is distance the number of mega lights 
 Input is taken as integer value in numbers greater than zero
 
-EXAMPLE IMPUT:
+EXAMPLE INPUT:
 
 dotnet run -- 1000000
 
@@ -56,7 +56,7 @@ dotnet run -- x -v
 Where x is distance the number of mega lights 
 Input is taken as integer value in numbers greater than zero
 
-EXAMPLE IMPUT:
+EXAMPLE IM=NPUT:
 
 dotnet run -- 1000000 -v
 
